@@ -1,0 +1,2 @@
+# Ultrasound-Based-Radial-Artery-Dataset-for-Non-Invasive-Blood-Pressure-Estimation
+This project provides a testing demo designed to facilitate the validation and reproduction of experimental results. The repository primarily contains a clinical dataset, corresponding test scripts and the trained model weights, serving as a practical reference for researchers and developers working in related fields.
