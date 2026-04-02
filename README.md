@@ -1,8 +1,5 @@
 # Ultrasound-Based-Radial-Artery-Dataset-for-Non-Invasive-Blood-Pressure-Estimation
-This project provides a testing demo designed to facilitate the validation and reproduction of experimental results. The repository primarily contains a clinical dataset, corresponding test scripts and the trained model weights, serving as a practical reference for researchers and developers working in related fields.
-
-
-> **Overview:** This dataset comprises ultrasound and invasive blood pressure (IBP) data collected from 90 patients in the cardiac surgery ICU. The data has been categorized according to the blood pressure classification standards of the European Society of Cardiology (ESC) and the European Society of Hypertension (ESH).
+> **Overview:** This project provides a testing demo designed to facilitate the validation and reproduction of experimental results. The repository primarily contains a clinical dataset, corresponding test scripts and the trained model weights, serving as a practical reference for researchers and developers working in related fields. The dataset comprises ultrasound and invasive blood pressure (IBP) data collected from 90 patients in the cardiac surgery ICU. The data has been categorized according to the blood pressure classification standards of the European Society of Cardiology (ESC) and the European Society of Hypertension (ESH).
 
 ## Dataset Overview
 
@@ -40,13 +37,8 @@ The data file is a MATLAB structure array (`Dirlist.mat`) containing the followi
 
 - **`Dirlist/`**: Contains the `.mat` data files for testing.
 - **`net_weight/`**: Contains the trained model weight files.
-
+- **`MLP_for_BP_prediction/`**: Contains the test script.
 ---
-
-## Related Resources
-
-The full dataset and archival version corresponding to this demo have been published on IEEE DataPort:
-- **IEEE DataPort:** [Insert your IEEE DataPort link here]
 
 ## License
 
